@@ -1,0 +1,21 @@
+body {
+  background: url("http://images.unsplash.com/photo-1446104838475-bc6508184f08?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=914acdc119c68bff5eba3e26152c5e3a");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+html{
+  height: 100%;
+}
+
+.fa-hashtag {
+  color: #ffffff;
+}
+
+.fa-eye {
+  color: #ffffff;
+}
+
+
